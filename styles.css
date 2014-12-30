@@ -12,6 +12,7 @@
     .modal.fade.in {top:10%;}
     }
    
+
 .modal-open {
   overflow: hidden;
 }
@@ -109,6 +110,8 @@
 .modal-footer .btn-block + .btn-block {
   margin-left: 0;
 }
+
+
 .modal-scrollbar-measure {
   position: absolute;
   top: -9999px;
@@ -188,4 +191,16 @@ button.close {
     background-color: #990000;
     color:white;
     font-size: 2em;
+}
+
+
+.modal-footer p {
+    float: left;
+    text-align: center;
+    font-size: 2em;
+    margin: 5px 0 15px 0;
+    width: 100%;
+}
+.modal-footer a {
+    text-decoration: none;
 }
