@@ -9,7 +9,7 @@
         height:auto;
     }
     #fundraisemodal img {width:100%;}
-    .modal.fade.in {top:10%;}
+    .modal.fade.in {/*top:10%;*/}
     }
    
 
